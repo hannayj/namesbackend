@@ -4,5 +4,5 @@ This is the node.js back-end of a simple web application with names. It serves t
 
 In order to run the server in development mode, run *npm run dev* in the terminal. The server will run in port 3001 and the api can be found in: /api/names.
 
-The application is also in [Heroku](https://mighty-earth-09954.herokuapp.com). 
+The application used to be in Heroku, but then they started asking money for it. 
 
